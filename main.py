@@ -16,7 +16,7 @@ import sys
 from PyQt5 import QtGui
 from pygame import mixer
 from main_ui import Ui_MainWindow
-import ctypes  # An included library with Python install.
+import ctypes
 
 
 class languages_gui(QMainWindow,Ui_MainWindow):
